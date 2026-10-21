@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "product": "fop-manager-without-vat",
+  "updated_at": "2026-10-21T00:00:00+03:00",
+  "years": {
+    "2025": {
+      "minimum_wage_01_01": "8000",
+      "subsistence_minimum_01_01": "3028",
+      "sources": [
+        "https://zakon.rada.gov.ua/laws/show/4059-20"
+      ]
+    },
+    "2026": {
+      "minimum_wage_01_01": "8647",
+      "subsistence_minimum_01_01": "3328",
+      "sources": [
+        "https://tax.gov.ua/media-tsentr/novini/968282.html"
+      ]
+    }
+  }
+}
